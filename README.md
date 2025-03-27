@@ -8,8 +8,14 @@ I make educational web applications and games. Also have experience with educati
 - Phaser
 - Unity
 - the OpenAI API
+- the Stripe API
+- D3
+- just started with Socket.io
 ### Design skills
 - instructional / educatioanl design
 - UX design
 - visual design
 - basic narrative design
+### Other skills
+- project management
+- managing a small team
