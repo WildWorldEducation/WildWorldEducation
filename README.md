@@ -12,7 +12,7 @@ I make educational web applications and games. Also have experience with educati
 - D3
 - just started with Socket.io
 ### Design skills
-- instructional / educatioanl design
+- instructional / educational design
 - UX design
 - visual design
 - basic narrative design
